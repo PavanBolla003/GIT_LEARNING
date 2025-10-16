@@ -1,2 +1,0 @@
-userName :paad
-pswd: ahudhs
